@@ -27,8 +27,8 @@
 [gui]
 	recentrepo = 
 [user]
-	email = jiwang@alibaba-inc.com
-	name = jiwang
+	email = test@example.com
+	name = test
 [filter "lfs"]
 	clean = git lfs clean %f
 	smudge = git lfs smudge %f
